@@ -1,2 +1,1 @@
-# Hello-world
-최초 테스트
+#hello world no hangul
